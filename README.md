@@ -126,7 +126,7 @@ Each module has a defined input/output contract. Internal implementation can be 
 
 CarMind's architecture is deliberately inspired by AUTOSAR principles — the same philosophy that drives modern automotive ECU software design.
 
-| AUTOSAR Concept | CarBuddy Equivalent |
+| AUTOSAR Concept | CarMind Equivalent |
 |---|---|
 | Basic Software (BSW) | Hardware + Connectivity Layers |
 | Runtime Environment (RTE) | AI Service Layer interfaces |
@@ -221,4 +221,4 @@ Backchanneling — "mm", "got it" while listening
 
 ---
 
-*CarBuddy is an independent open source project. Not affiliated with Google, Android Auto, or any automotive OEM.*
+*CarMind is an independent open source project. Not affiliated with Google, Android Auto, or any automotive OEM.*
